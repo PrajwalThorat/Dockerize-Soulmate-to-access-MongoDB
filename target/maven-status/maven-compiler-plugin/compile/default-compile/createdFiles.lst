@@ -1,0 +1,9 @@
+com\stackroute\Soulmate\repo\SoulmateRepo.class
+com\stackroute\Soulmate\exception\SoulmateAlreadyExistException.class
+com\stackroute\Soulmate\controller\SoulmateController.class
+com\stackroute\Soulmate\service\SoulmateService.class
+com\stackroute\Soulmate\service\SoulmateServiceImpl.class
+com\stackroute\Soulmate\exception\GlobalException.class
+com\stackroute\Soulmate\model\Soulmate.class
+com\stackroute\Soulmate\exception\SoulmateNotFoundException.class
+com\stackroute\Soulmate\SoulmateApplication.class
